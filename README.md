@@ -1,7 +1,8 @@
-# OpenCart BDD Project - Cucumber
+# OpenCart BDD Project - Cucumber, JUnit5
 
 
 ### Folder Structure
+
 
 
 
@@ -18,7 +19,7 @@ automation-testing-cucumber/                     ← 📁 Project root
 │   └── 📁 test/
 │       ├── 📁 java/
 │       │   ├── 📦 stepdefinitions/             ← Cucumber step definitions
-│       │   ├── 📦 testrunners/                     ← Cucumber test runner classes
+│       │   ├── 📦 testrunners/                 ← Cucumber test runner classes
 │       │   ├── 📦 pageobjects/                 ← Page Object Model classes
 │       │   ├── 📦 hooks/                       ← Setup/teardown hooks (e.g., for Extent and WebDriver)
 │       │   └── 📦 tests/                       ← (Optional) for test suite classes or tags
